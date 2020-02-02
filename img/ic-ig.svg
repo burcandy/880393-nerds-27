@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="79px" viewBox="0 0 79 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic-ig</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M40.661676,1.211517 C62.269317,1.211517 79.785729,18.728253 79.785729,40.336056 C79.785729,61.943211 62.269317,79.459785 40.661676,79.459785 C19.054035,79.459785 1.537542,61.943211 1.537542,40.336056 C1.537542,18.728253 19.054035,1.211517 40.661676,1.211517 Z" id="path-1"></path>
+    </defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Index" transform="translate(-321.000000, -2328.000000)">
+            <g id="social-media-footer" transform="translate(139.000000, 2327.000000)">
+                <g id="ic-ig" transform="translate(181.000000, 0.000000)">
+                    <g id="Shape-2-copy-5">
+                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <use fill="#E1E1E1" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="insta-icon" transform="translate(30.000000, 30.000000)" fill="#FFFFFF">
+                        <g id="Shape">
+                            <path d="M18,0 L3,0 C1.35,0 0,1.35 0,3 L0,18 C0,19.65 1.35,21 3,21 L18,21 C19.65,21 21,19.65 21,18 L21,3 C21,1.35 19.65,0 18,0 Z M10.5,7 C12.43,7 14,8.57 14,10.5 C14,12.43 12.43,14 10.5,14 C8.57,14 7,12.43 7,10.5 C7,8.57 8.57,7 10.5,7 Z M18,18 L3,18 L3,9 L4.181,9 C4.06259927,9.49127065 4.00185619,9.99466631 4,10.5 C4,14.0898509 6.91014913,17 10.5,17 C14.0898509,17 17,14.0898509 17,10.5 C16.9986385,9.99463578 16.9378885,9.49118263 16.819,9 L18,9 L18,18 Z M18,7 L14,7 L14,3 L18,3 L18,7 Z" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
